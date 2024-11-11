@@ -1,0 +1,39 @@
+{
+  "goals": [
+    {
+      "id": 1,
+      "title": "Space exploration",
+      "description": "Space exploration with quantum computing enhances data processing, simulation accuracy, and decision-making, enabling faster, more efficient space missions.",
+      "isFeatured": true,
+      "image": "/goals/space.webp"
+    },
+    {
+      "id": 2,
+      "title": "Drug discovery",
+      "description": "Drug discovery with quantum computing accelerates molecular simulations, optimizing drug design, predicting interactions, and improving treatment efficacy through faster, more accurate analysis.",
+      "isFeatured": true,
+      "image": "/goals/drug.webp"
+    },
+    {
+      "id": 3,
+      "title": "Intergating Future with Quantum computing",
+      "description": "Integrating the future with quantum computing unlocks advanced problem-solving, revolutionizing industries like AI, medicine, and space exploration.",
+      "isFeatured": true,
+      "image": "/goals/aiintegrate.webp"
+    },
+    {
+      "id": 4,
+      "title": "Build Neural Networks",
+      "description": "Building neural networks involves designing layers, selecting activation functions, training with data, and optimizing performance for tasks like classification or regression.",
+      "isFeatured": true,
+      "image": "/goals/nural.webp"
+    },
+    {
+      "id": 5,
+      "title": "Our quantum computing team",
+      "description": "Without a team someting will missing, that's you our team is more important for us. Our idea is to create an Innovative team.",
+      "isFeatured": true,
+      "image": "/goals/team.webp"
+    }
+  ]
+}
