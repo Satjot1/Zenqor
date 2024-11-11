@@ -17,35 +17,35 @@
       {
         "id": 3,
         "name": "Arvinder Shinh",
-        "title": "AI and NN leader",
+        "title": "Artificial Intelligence and Neural Network Leader",
         "description": "An AI and NN leader is an expert guiding advancements in artificial intelligence and neural networks, pioneering innovations for smarter, efficient systems worldwide.",
         "image": "/team/Arvinder.jpeg" 
       },
       {
         "id": 4,
         "name": "Muazzam ali",
-        "title": "Human-Centric AI & Medical Innovation Lead",
-        "description": "Leading advancements in human-centric AI, merging technology and medicine to improve healthcare outcomes, empower patient care, and drive medical innovation.",
-        "image": "/team/Muazzam.jpeg" 
+        "title": "Chief Operating Officer & Medical Innovation Lead",
+        "description": "Our Chief Operating Officer & Medical Innovation Lead, he drives operational excellence while pioneering advancements in healthcare, integrating cutting-edge technology with medical expertise.",
+        "image": "/team/Muazzam.jpg" 
       },
       {
         "id": 5,
         "name": "Raza Mehdi",
-        "title": "Data science and quantum computing expert",
+        "title": "Data Science and Quantum Computing Expert",
         "description": "Our data science and quantum computing expert pioneers innovative solutions at the intersection of big data and quantum tech, advancing computational intelligence.",
         "image": "/team/Raza.jpeg"
       },
       {
         "id": 6,
         "name": "Yash Dixit",
-        "title": "AI leader",
+        "title": "Artificial Intelligence Leader",
         "description": "Our AI leader is a visionary expert, driving transformative advancements in artificial intelligence, inspiring innovation, and shaping the future of intelligent technology.",
         "image": "/team/yash_pfp.jpeg.jpg"
       },
       {
         "id": 7,
         "name": "Sarthak",
-        "title": "Back-end and network security leader",
+        "title": "Back-end and Network Security Leader",
         "description": "Our back-end and network security leader is an expert in safeguarding systems, optimizing server performance, and implementing robust defenses to protect against cyber threats.",
         "image": "/team/Sarthak.jpeg"
       },
@@ -59,7 +59,7 @@
       {
         "id": 9,
         "name": "Rudra Prajapati",
-        "title": "Web development leader",
+        "title": "Web development Leader",
         "description": "Our web development leader is a skilled strategist, driving seamless, user-centered designs, efficient code, and innovative web solutions that elevate the digital experience.",
         "image": "/team/member.png"
       },
@@ -73,7 +73,7 @@
       {
         "id": 11,
         "name": "Adithya A",
-        "title": "Oversee Quantum part and other aspects",
+        "title": "Oversee Quantum Part and Other Aspects",
         "description": "Our leader oversees the quantum computing aspects and other core elements, ensuring seamless integration, security, and innovation across all technological layers of the project.",
         "image": "/team/Adithya.jpg"
       }

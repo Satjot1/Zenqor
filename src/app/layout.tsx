@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Zenqor:Shaping Furure",
+  title: "Zenqor:Shaping Future",
   description: "Let's innovate the future with our hands",
 };
 

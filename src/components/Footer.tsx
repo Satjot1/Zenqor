@@ -4,7 +4,7 @@ import Link from "next/link"
 function Footer() {
     return (
         <footer className="bg-black text-gray-400 py-12">
-            <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 px-4 sm:px-6 lg:px-8">
+            <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 gap-8 px-4 sm:px-6 lg:px-8">
                 <div>
                     <h2 className="text-white text-lg font-semibold mb-4">Quick Links</h2>
                     <ul>
@@ -42,7 +42,7 @@ function Footer() {
                         </li>
                     </ul>
                 </div>
-                <div>
+                {/* <div>
                     <h2 className="text-white text-lg font-semibold mb-4">Follow Us</h2>
                     <div className="flex space-x-4">
                         <a
@@ -64,16 +64,18 @@ function Footer() {
                             Instagram
                         </a>
                     </div>
-                </div>
+                </div> */}
                 <div>
                     <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
-                    <p>Location</p>
-                    <p>XXXXXX</p>
-                    <p>Email: XXXXXX@mail.com</p>
-                    <p>Phone: (123) 456-7890</p>
+                    <p>Pithoragarh, Uttarakhand, India</p>
+                    <p>262501</p>
+                    {/* <p>Email: XXXXXX@mail.com</p> */}
+                    <Link href="tel:+918958568597" className="hover:text-white transition-colors duration-300">
+                        Phone: +91 89585 68597
+                    </Link>
                 </div>
             </div>
-            <p className="text-center text-xs pt-8">© 20XX company. All rights reserved.</p>
+            <p className="text-center text-xs pt-8">© 2024 Zenqor. All rights reserved.</p>
             <p className="text-center text-xs pt-8">Website by Satjot Singh</p>
         </footer>
     )

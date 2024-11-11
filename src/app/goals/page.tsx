@@ -10,7 +10,7 @@ function page() {
         <>
         <title>Our Goals</title>
             <div className="min-h-screen bg-black py-12 pt-36">
-                <h1 className="text-lg md:text-7xl text-center font-sans font-bold mb-8 text-white">All goals ({Ourgoals.goals.length})</h1>
+                <h1 className="text-xl md:text-7xl text-center font-sans font-bold mb-8 text-white">Our goals</h1>
                 <div className="flex flex-wrap justify-center">
                     {Ourgoals.goals.map((goal) => (
                         <CardContainer className="inter-var m-4" key={goal.id}>

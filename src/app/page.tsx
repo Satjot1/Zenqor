@@ -14,7 +14,6 @@ export default function Home() {
     <>
       <LoadingBar color='#ffffff' ref={ref} />
       <main className="min-h-screen bg-black/[0.94] antialiased bg-grid-white/[0.05]">
-        <title>Zenqor:Shaping Furure</title>
         <HeroSection />
         <OurTeam />
         <QuoteQuanton />
