@@ -69,14 +69,12 @@ function Footer() {
                     <h2 className="text-white text-lg font-semibold mb-4">Contact Us</h2>
                     <p>Pithoragarh, Uttarakhand, India</p>
                     <p>262501</p>
-                    {/* <p>Email: XXXXXX@mail.com</p> */}
                     <Link href="tel:+918958568597" className="hover:text-white transition-colors duration-300">
                         Phone: +91 89585 68597
                     </Link>
                 </div>
             </div>
             <p className="text-center text-xs pt-8">© 2024 Zenqor. All rights reserved.</p>
-            <p className="text-center text-xs pt-8">Website by Satjot Singh</p>
         </footer>
     )
 }
