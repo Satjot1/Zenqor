@@ -47,5 +47,13 @@ In scr/data/products_data.json the format is :
 
 Contact developer for any further queries on whatsapp :- +919464646982
 
-For developement purpose run :-
-npm build
+1. git clone https://github.com/Satjot1/Zenqor
+
+2. cd Zenqor
+
+3. npm install
+
+4. npm run build
+
+Now continue with simple deployment
+
