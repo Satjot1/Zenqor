@@ -65,13 +65,6 @@
       },
       {
         "id": 10,
-        "name": "Karan Narula",
-        "title": "Mathematician",
-        "description": "Our mathematician is a brilliant problem-solver, leveraging analytical rigor and creative insights to tackle complex challenges, advancing knowledge and precision across our projects.",
-        "image": "/team/member.png"
-      },
-      {
-        "id": 11,
         "name": "Adithya A",
         "title": "Oversee Quantum Part and Other Aspects",
         "description": "Our leader oversees the quantum computing aspects and other core elements, ensuring seamless integration, security, and innovation across all technological layers of the project.",

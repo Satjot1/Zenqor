@@ -1,5 +1,58 @@
 {
     "products": [
-        
+      {
+        "id": 1,
+        "title": "Product 1",
+        "image": "/products/product.png",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "href" : "https://www.example.com"
+      },
+      {
+        "id": 2,
+        "title": "Product 2",
+        "image": "/products/product.png",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "href" : "https://www.example.com"
+      },
+      {
+        "id": 3,
+      
+        "title": "Product 3",
+        "image": "/products/product.png",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "href" : "https://www.example.com"
+      },
+      {
+        "id": 4,
+      
+        "title": "Product 4",
+        "image": "/products/product.png",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "href" : "https://www.example.com"
+      },
+      {
+        "id": 5,
+      
+        "title": "Product 5",
+        "image": "/products/product.png",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "href" : "https://www.example.com"
+      },
+      {
+        "id": 6,
+      
+        "title": "Product 6",
+        "image": "/products/product.png",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "href" : "https://www.example.com"
+      },
+      {
+        "id": 7,
+      
+        "title": "Product 7",
+        "image": "/products/product.png",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "href" : "https://www.example.com"
+      }
     ]
   }
