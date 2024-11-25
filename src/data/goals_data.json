@@ -30,6 +30,20 @@
     },
     {
       "id": 5,
+      "title": "Transform Logistics",
+      "description": "A futuristic logistics hub showcasing real-time supply chain data, demand prediction, optimized routes, cost analysis, and advanced transportation integration.",
+      "isFeatured": true,
+      "image": "/goals/transform.webp"
+    },
+    {
+      "id": 6,
+      "title": "Enhance Cybersecurity",
+      "description": "A futuristic depiction of quantum AI-driven cybersecurity with glowing data traffic, a protective shield, and a sleek digital grid.",
+      "isFeatured": true,
+      "image": "/goals/cyber.webp"
+    },
+    {
+      "id": 7,
       "title": "Our quantum computing team",
       "description": "Without a team, something is always missing. That’s why our team is our greatest asset. Our vision is to build an innovative and dynamic team.",
       "isFeatured": true,
